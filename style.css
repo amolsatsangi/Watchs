@@ -2,8 +2,8 @@ body{
     background-color: rgb(209, 227, 243);
 }
 #Clockcontainer{
-    height:440px;
-    width:440px;
+    height:40vw;
+    width:40vw;;
     background-color:blue;
     margin:auto;
     margin-top:4vw;
