@@ -7,7 +7,7 @@ body{
     background-color:blue;
     margin:auto;
     margin-top:4vw;
-    background: url('..Analog-Watch/clock.png');
+    background: url('..images/clock.png');
     background-size:100%;
     position:relative;
 }
