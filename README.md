@@ -5,6 +5,7 @@ See Implementation [here](http://kausani.me/Watchs/Analog%20Watch/index.html) <b
 See code [here](https://github.com/amolsatsangi/Watchs/tree/main/Analog%20Watch)<br>
 
 <img src="Analog%20Watch/Capture.PNG">
+<br>
 ## Digital Watch
 See Implementation [here](http://kausani.me/Watchs/Digital%20Watch/index.html)<br>
 See code [here](https://github.com/amolsatsangi/Watchs/tree/main/Digital%20Watch)<br>
