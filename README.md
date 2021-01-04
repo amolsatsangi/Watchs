@@ -8,4 +8,4 @@ See code [here](https://github.com/amolsatsangi/Watchs/tree/main/Analog%20Watch)
 ## Digital Watch
 See Implementation [here](http://kausani.me/Watchs/Digital%20Watch/index.html)<br>
 See code [here](https://github.com/amolsatsangi/Watchs/tree/main/Digital%20Watch)<br>
-<img src="Watchs/Digital Watch/capture2.png">
+<img src="Digital%20Watch/Capture2.PNG">
