@@ -1,2 +1,2 @@
 # Analog-Watch
-I have created an anlog watch using HTML,CSS and Javascript from scratch
+I have created analog and digital watches using HTML, CSS, Bootstrap and Javascript from scratch
