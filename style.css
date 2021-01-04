@@ -1,0 +1,9 @@
+#dclock{
+    margin-top:10vw;
+    background:rgb(0, 0, 0);
+    font-family:'Orbitron', sans-serif;
+    width:525px;
+    color:rgb(1, 107, 1);
+    border-radius:10px;
+    border:5px solid rgb(36, 219, 36);
+}
