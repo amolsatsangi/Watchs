@@ -46,9 +46,9 @@ cd Watchs
 
 ## How the Watches Work
 
-# Digital Watch
+### Digital Watch
 - The Digital Watch uses JavaScript’s setInterval() function to update the time every second. The time is formatted and displayed in an easy-to-read digital format using the Date() object.
-# Analog Watch
+### Analog Watch
 - The Analog Watch calculates the rotation angles for the hour, minute, and second hands based on the current time. CSS transforms and transitions are applied to animate the hands smoothly around the clock face.
 
 ## Future Improvements
